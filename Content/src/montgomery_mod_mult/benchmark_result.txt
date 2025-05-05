@@ -1,0 +1,125 @@
+=== Modular Addition Benchmark ===
+Iterations: 10000000, Bit Size: 100
+Standard Addition:              15 ns/op
+Montgomery Conversion:    1448424900 ns
+Montgomery Addition:            13 ns/op
+Ratio (Montgomery/Standard): 0.87x
+
+=== Modular Multiplication Benchmark ===
+Iterations: 10000000, Bit Size: 100
+Standard Multiplication:         37 ns/op
+Montgomery Conversion:    1433849600 ns
+Montgomery Multiplication:       37 ns/op
+Ratio (Montgomery/Standard): 1.00x
+
+=== Modular Addition Benchmark ===
+Iterations: 10000000, Bit Size: 200
+Standard Addition:              16 ns/op
+Montgomery Conversion:    1737632800 ns
+Montgomery Addition:            15 ns/op
+Ratio (Montgomery/Standard): 0.94x
+
+=== Modular Multiplication Benchmark ===
+Iterations: 10000000, Bit Size: 200
+Standard Multiplication:         76 ns/op
+Montgomery Conversion:    1725589700 ns
+Montgomery Multiplication:       85 ns/op
+Ratio (Montgomery/Standard): 1.12x
+
+=== Modular Addition Benchmark ===
+Iterations: 10000000, Bit Size: 300
+Standard Addition:              16 ns/op
+Montgomery Conversion:    1964002800 ns
+Montgomery Addition:            17 ns/op
+Ratio (Montgomery/Standard): 1.06x
+
+=== Modular Multiplication Benchmark ===
+Iterations: 10000000, Bit Size: 300
+Standard Multiplication:         93 ns/op
+Montgomery Conversion:    1983872900 ns
+Montgomery Multiplication:      105 ns/op
+Ratio (Montgomery/Standard): 1.13x
+
+=== Modular Addition Benchmark ===
+Iterations: 10000000, Bit Size: 400
+Standard Addition:              19 ns/op
+Montgomery Conversion:    2425268000 ns
+Montgomery Addition:            19 ns/op
+Ratio (Montgomery/Standard): 1.00x
+
+=== Modular Multiplication Benchmark ===
+Iterations: 10000000, Bit Size: 400
+Standard Multiplication:        134 ns/op
+Montgomery Conversion:    2410370600 ns
+Montgomery Multiplication:      147 ns/op
+Ratio (Montgomery/Standard): 1.10x
+
+=== Modular Addition Benchmark ===
+Iterations: 10000000, Bit Size: 500
+Standard Addition:              20 ns/op
+Montgomery Conversion:    2722152400 ns
+Montgomery Addition:            22 ns/op
+Ratio (Montgomery/Standard): 1.10x
+
+=== Modular Multiplication Benchmark ===
+Iterations: 10000000, Bit Size: 500
+Standard Multiplication:        157 ns/op
+Montgomery Conversion:    2665731400 ns
+Montgomery Multiplication:      172 ns/op
+Ratio (Montgomery/Standard): 1.10x
+
+=== Modular Addition Benchmark ===
+Iterations: 10000000, Bit Size: 600
+Standard Addition:              21 ns/op
+Montgomery Conversion:    3382225400 ns
+Montgomery Addition:            22 ns/op
+Ratio (Montgomery/Standard): 1.05x
+
+=== Modular Multiplication Benchmark ===
+Iterations: 10000000, Bit Size: 600
+Standard Multiplication:        223 ns/op
+Montgomery Conversion:    3340815500 ns
+Montgomery Multiplication:      239 ns/op
+Ratio (Montgomery/Standard): 1.07x
+
+=== Modular Addition Benchmark ===
+Iterations: 10000000, Bit Size: 700
+Standard Addition:              22 ns/op
+Montgomery Conversion:    3791015300 ns
+Montgomery Addition:            24 ns/op
+Ratio (Montgomery/Standard): 1.09x
+
+=== Modular Multiplication Benchmark ===
+Iterations: 10000000, Bit Size: 700
+Standard Multiplication:        245 ns/op
+Montgomery Conversion:    3753135700 ns
+Montgomery Multiplication:      273 ns/op
+Ratio (Montgomery/Standard): 1.11x
+
+=== Modular Addition Benchmark ===
+Iterations: 10000000, Bit Size: 800
+Standard Addition:              23 ns/op
+Montgomery Conversion:    4712059000 ns
+Montgomery Addition:            26 ns/op
+Ratio (Montgomery/Standard): 1.13x
+
+=== Modular Multiplication Benchmark ===
+Iterations: 10000000, Bit Size: 800
+Standard Multiplication:        330 ns/op
+Montgomery Conversion:    4886355200 ns
+Montgomery Multiplication:      375 ns/op
+Ratio (Montgomery/Standard): 1.14x
+
+=== Modular Addition Benchmark ===
+Iterations: 10000000, Bit Size: 900
+Standard Addition:              27 ns/op
+Montgomery Conversion:    5816531500 ns
+Montgomery Addition:            31 ns/op
+Ratio (Montgomery/Standard): 1.15x
+
+=== Modular Multiplication Benchmark ===
+Iterations: 10000000, Bit Size: 900
+Standard Multiplication:        398 ns/op
+Montgomery Conversion:    5637491700 ns
+Montgomery Multiplication:      488 ns/op
+Ratio (Montgomery/Standard): 1.23x

@@ -1,0 +1,19 @@
+
+58160 : 0x15ee18e767d0 : 3 : logger_init :  LOG FILE OPENED (by collectunits.logger), level: 4
+58160 : 0x15ee18e7684d : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18e93169 : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18e9ad7f : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18ec7411 : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18ed83dc : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18efa2f2 : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18f00888 : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18f08987 : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18f0e110 : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18f35264 : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18f4d3ae : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18f53d1e : 4 : pytrace_start_profiling :  [CALLED]
+58160 : 0x15ee18f54721 : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee18f62fe3 : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee1a860765 : 4 : pytrace_try_probe_python_functions :  Python version is detected as == 0x0
+58160 : 0x15ee1a863ac1 : 4 : pytrace_stop_profiling :  [CALLED]
+58160 : 0x15ee1a863ae7 : 3 : logger_fini :  LOG FILE CLOSED (by collectunits.logger)
